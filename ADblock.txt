@@ -1,7 +1,8 @@
 !2015-05-30 14：33
 bbs.feng.com##[class="fl_tb"]>[class="inner"]
 ||ad.bjmama.net
-pi59.com##[src^="http://*/jili/"],[src^="http://*/图库/"]
 ||v4p.co##iframe
 ||y1118.com##div.ads
 ||611999.com##iframe
+||pi59.com##div#ShowAD1
+||pi59.com##div#ShowAD
