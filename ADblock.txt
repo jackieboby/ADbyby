@@ -1,7 +1,7 @@
 [ADbyby 2.5.0]
-! Title:! ADblock List
-! Homepage: https://github.com/jackieboby/ADbyby
-!2015-05-30 16：58
+!Title:! ADblock List
+!Homepage: https://github.com/jackieboby/ADbyby
+!Updata: 2015-05-30 20:50
 feng.com##[class="fl_tb"]>[class="inner"]
 ad.bjmama.net
 v4p.co##iframe
@@ -10,3 +10,4 @@ pi59.com##div#ShowAD1
 pi59.com##div#ShowAD
 lrshare.com##aside#text-8
 yinyuetai.com##div[class^="focus_bottom_banner"]
+haotui.com##div#BAIDU_DSPUI_FLOWBAR
