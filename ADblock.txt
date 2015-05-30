@@ -1,8 +1,8 @@
 !2015-05-30 16：58
-||feng.com##[class="fl_tb"]>[class="inner"]
-||ad.bjmama.net
-||v4p.co##iframe
-||y1118.com##div.ads
-||pi59.com##div#ShowAD1
-||pi59.com##div#ShowAD
-||lrshare.com##aside#text-8
+feng.com##[class="fl_tb"]>[class="inner"]
+ad.bjmama.net
+v4p.co##iframe
+y1118.com##div.ads
+pi59.com##div#ShowAD1
+pi59.com##div#ShowAD
+lrshare.com##aside#text-8
