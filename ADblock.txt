@@ -3,5 +3,4 @@ bbs.feng.com##[class="fl_tb"]>[class="inner"]
 ||ad.bjmama.net
 pi59.com##[src^="http://www.pi59.com/jili/"],[src^="http://www.178aaa.com/图库/"]
 v4p.co##iframe
-611999.com##iframe
-||ads.y1118.com/static/advs/
+||y1118.com##div.ads
