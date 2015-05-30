@@ -12,4 +12,3 @@ lrshare.com##aside#text-8
 yinyuetai.com##div[class^="focus_bottom_banner"]
 haotui.com##div#BAIDU_DSPUI_FLOWBAR
 iqiyi.com##div.play-title-right
-iqiyi.com##a.adLink
