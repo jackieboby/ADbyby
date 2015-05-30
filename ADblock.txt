@@ -1,3 +1,6 @@
+[ADbyby 2.5.0]
+! Title:! ADblock List
+! Homepage: https://github.com/jackieboby/ADbyby
 !2015-05-30 16：58
 feng.com##[class="fl_tb"]>[class="inner"]
 ad.bjmama.net
