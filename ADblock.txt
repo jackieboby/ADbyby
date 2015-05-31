@@ -16,3 +16,4 @@ youku.com##div.yk-side-menu
 youku.com##div#yknSideSub
 youku.com##a.yk-side-manage
 youku.com##div#sideTool
+||aty.sohu.com/crossdomain.xml
