@@ -18,5 +18,4 @@
 ||youku.com##div#yknSideSub
 ||youku.com##a.yk-side-manage
 ||youku.com##div#sideTool
-||aty.sohu.com/crossdomain.xml
-zdfans.com##em
+||zdfans.com##em
