@@ -8,7 +8,7 @@
 ||y1118.com##div.ads
 ||pi59.com##div#ShowAD1
 ||pi59.com##div#ShowAD
-||lrshare.com##aside#text-*
+||lrshare.com##aside#text-9
 ||yinyuetai.com##div[class^="focus_bottom_banner"]
 ||haotui.com##div#BAIDU_DSPUI_FLOWBAR
 ||iqiyi.com##div.play-title-right
