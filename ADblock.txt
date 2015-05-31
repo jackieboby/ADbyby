@@ -1,6 +1,4 @@
 [ADbyby 2.5.0]
-! Checksum: OY85NTAEh1/t+T4pqOgu1Q
-! Version: 20150531
 ! Title:! ADbyby List
 ! Only for chinese language websites
 ! Last modified: 2015-05-31 20：05
