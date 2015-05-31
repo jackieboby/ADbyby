@@ -2,18 +2,18 @@
 !Title:! ADblock List
 !Homepage: https://github.com/jackieboby/ADbyby
 !Updata: 2015-05-30 20:50
-feng.com##[class="fl_tb"]>[class="inner"]
-ad.bjmama.net
-v4p.co##iframe
-y1118.com##div.ads
-pi59.com##div#ShowAD1
-pi59.com##div#ShowAD
-lrshare.com##aside#text-8
-yinyuetai.com##div[class^="focus_bottom_banner"]
-haotui.com##div#BAIDU_DSPUI_FLOWBAR
-iqiyi.com##div.play-title-right
-youku.com##div.yk-side-menu
-youku.com##div#yknSideSub
-youku.com##a.yk-side-manage
-youku.com##div#sideTool
+||feng.com##[class="fl_tb"]>[class="inner"]
+||ad.bjmama.net
+||v4p.co##iframe
+||y1118.com##div.ads
+||pi59.com##div#ShowAD1
+||pi59.com##div#ShowAD
+||lrshare.com##aside#text-8
+||yinyuetai.com##div[class^="focus_bottom_banner"]
+||haotui.com##div#BAIDU_DSPUI_FLOWBAR
+||iqiyi.com##div.play-title-right
+||youku.com##div.yk-side-menu
+||youku.com##div#yknSideSub
+||youku.com##a.yk-side-manage
+||youku.com##div#sideTool
 ||aty.sohu.com/crossdomain.xml
