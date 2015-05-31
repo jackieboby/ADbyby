@@ -7,6 +7,11 @@
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/jackieboby/ADbyby
+!
+!-----------------------General advert blocking filters-----------------------!
+!------------------------General element hiding rules-------------------------!
+###windlocation
+!-----------------------------Union&third-party-------------------------------!
 ||feng.com##[class="fl_tb"]>[class="inner"]
 ||ad.bjmama.net
 ||v4p.co##iframe
