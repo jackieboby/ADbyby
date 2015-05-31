@@ -14,6 +14,8 @@
 ||yinyuetai.com##div[class^="focus_bottom_banner"]
 ||haotui.com##div#BAIDU_DSPUI_FLOWBAR
 ||iqiyi.com##div.play-title-right
+||msg.iqiyi.com^
+||msg.video.qiyi.com^
 ||youku.com##div.yk-side-menu
 ||youku.com##div#yknSideSub
 ||youku.com##a.yk-side-manage
