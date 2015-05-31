@@ -1,2 +1,2 @@
-# ADbyby
-ADbyby 2.5.0
+# ADbyby 仅供自用广告过滤规则同步
+ADbyby 2.5.0 仅供自用广告过滤规则同步
