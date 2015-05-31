@@ -4,8 +4,6 @@
 ! Title:! ADbyby List
 ! Only for chinese language websites
 ! Last modified: 2015-05-31 20：05
-! Expires: 4 days (update frequency)
-! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/jackieboby/ADbyby
 !
 ||feng.com##[class="fl_tb"]>[class="inner"]
