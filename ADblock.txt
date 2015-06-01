@@ -1,7 +1,7 @@
 [ADbyby 2.5.0]
 ! Title:! ADbyby List
 ! Only for chinese language websites
-! Last modified: 2015-06-01 10：17
+! Last modified: 2015-06-01 16：00
 ! Homepage: https://github.com/jackieboby/ADbyby
 !
 ||feng.com##[class="fl_tb"]>[class="inner"]
@@ -23,4 +23,5 @@
 ||youku.com##div#sideTool
 ||zdfans.com##em
 ||su.bdimg.com/static/dspui/js/
-hanzify.org##iframe[allowtransparency="true"]
+||hanzify.org##iframe[allowtransparency="true"]
+||hanzify.org##div.rss-new
