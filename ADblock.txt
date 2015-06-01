@@ -14,7 +14,6 @@
 ||lrshare.com##aside#text-9
 ||lrshare.com##aside#text-10
 ||yinyuetai.com##div[class^="focus_bottom_banner"]
-||haotui.com##div#BAIDU_DSPUI_FLOWBAR
 ||iqiyi.com##div.play-title-right
 ||msg.iqiyi.com^
 ||msg.video.qiyi.com^
@@ -23,4 +22,4 @@
 ||youku.com##a.yk-side-manage
 ||youku.com##div#sideTool
 ||zdfans.com##em
-hanzify.org###BAIDU_DSPUI_FLOWBAR,iframe[allowtransparency="true"]
+
