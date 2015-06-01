@@ -22,6 +22,5 @@
 ||youku.com##a.yk-side-manage
 ||youku.com##div#sideTool
 ||zdfans.com##em
-||hanzify.org###[allowtransparency="true"]
 ||su.bdimg.com/static/dspui/js/
-
+hanzify.org##iframe[allowtransparency="true"]
