@@ -25,3 +25,4 @@
 ||su.bdimg.com/static/dspui/js/
 ||hanzify.org##iframe[allowtransparency="true"]
 ||hanzify.org##div.rss-new
+||lofter.com##div.menub
