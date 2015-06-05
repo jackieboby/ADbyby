@@ -27,4 +27,4 @@
 ||hanzify.org##div.rss-new
 ||lofter.com##div.menub
 ||theync.com###divYNC-RC-TopAd
-||letv.com##div.cbg-Ads
+||letv.com##div.cbg-Ads,iframe
