@@ -1,7 +1,7 @@
 [ADbyby 2.5.0.1]
 ! Title:! ADbyby List
 ! Only for chinese language websites
-! Last modified: 2015-06-04 17：26
+! Last modified: 2015-06-08 17：16
 ! Homepage: https://github.com/jackieboby/ADbyby
 !
 ||feng.com##[class="fl_tb"]>[class="inner"]
@@ -28,3 +28,4 @@
 ||lofter.com##div.menub
 ||theync.com###divYNC-RC-TopAd
 ||letv.com##div.cbg-Ads
+||yixun.com###j_fbanner
