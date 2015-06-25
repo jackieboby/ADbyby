@@ -31,3 +31,4 @@
 ||yixun.com###j_fbanner
 ||pi59.com##iframe
 ||55887.com/47766.gif
+@@/adblockTester.js$domain=zdfans.com
