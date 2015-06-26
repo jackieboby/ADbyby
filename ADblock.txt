@@ -1,14 +1,3 @@
-[ADbyby 2.5.0.1]
-! Checksum: d663GXdcSyhudt61VlekWQ
-! Version:20150625
-! Title:! ADbyby List
-! Only for chinese language websites
-! Last modified: 2015-06-25 09：08
-! Expires: 4 days (update frequency)
-! License: http://creativecommons.org/licenses/by/3.0/
-! Homepage: https://github.com/jackieboby/ADbyby
-###windlocation
-!------------------------Specific element hiding rules------------------------!
 feng.com##[class="fl_tb"]>[class="inner"]
 ad.bjmama.net
 v4p.co##iframe
@@ -36,6 +25,4 @@ letv.com##div.cbg-Ads
 yixun.com###j_fbanner
 pi59.com##iframe
 55887.com/47766.gif
-!---------------------------------URL Whitelist-------------------------------!
 @@/adblockTester.js$domain=zdfans.com
-!----------------------------------The End------------------------------------!
