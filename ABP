@@ -1,0 +1,17 @@
+[Adblock Plus 2.0]
+! Checksum: d663GXdcSyhudt61VlekWQ
+! Version: 201506241924
+! Title: Annoyance List
+! Only for Chinese Language Websites.
+! Last modified: 2015/06/26 19:24 +0800
+! Expires: 4 days (update frequency)
+! License: http://creativecommons.org/licenses/by/3.0/
+! Email: mianhu@foxmail.com
+! Homepage: https://github.com/jackieboby/ADbyby
+!
+!-----------------------General advert blocking filters-----------------------!
+!------------------------General element hiding rules-------------------------!
+###windlocation
+!------------------------Specific element hiding rules------------------------!
+
+!----------------------------------The End------------------------------------!
