@@ -7,7 +7,7 @@
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/jackieboby/ADbyby
-!----------------------Specific advert blocking filters-----------------------!
+!------------------------Specific element hiding rules------------------------!
 ||feng.com##[class="fl_tb"]>[class="inner"]
 ||ad.bjmama.net
 ||v4p.co##iframe
@@ -35,4 +35,5 @@
 ||yixun.com###j_fbanner
 ||pi59.com##iframe
 ||55887.com/47766.gif
+!---------------------------------URL Whitelist-------------------------------!
 @@/adblockTester.js$domain=zdfans.com
