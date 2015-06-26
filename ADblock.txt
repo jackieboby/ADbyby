@@ -1,17 +1,3 @@
-[Adblock Plus 2.0]
-! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 20150626
-! Title: ADblock List
-! Only for Chinese Language Websites.
-! Last modified: 2015/06/26 17:22 +0800
-! Expires: 1 days (update frequency)
-! License: http://creativecommons.org/licenses/by/3.0/
-! Homepage: https://github.com/jackieboby/ADbyby
-!
-!-----------------------General advert blocking filters-----------------------!
-!------------------------General element hiding rules-------------------------!
-###windlocation
-!------------------------Specific element hiding rules------------------------!
 feng.com##[class="fl_tb"]>[class="inner"]
 ad.bjmama.net
 v4p.co##iframe
@@ -40,4 +26,3 @@ yixun.com###j_fbanner
 pi59.com##iframe
 55887.com/47766.gif
 @@/adblockTester.js$domain=zdfans.com
-!----------------------------------The End------------------------------------!
