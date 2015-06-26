@@ -1,9 +1,9 @@
-[Adblock Plus 2.0]
+[ADbyby 2.5.0.1]
 ! Checksum: d663GXdcSyhudt61VlekWQ
 ! Version: 20150626
 ! Title: ADblock List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/06/24 19:24 +0800
+! Last modified: 2015/06/26 17:22 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/jackieboby/ADbyby
