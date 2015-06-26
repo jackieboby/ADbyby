@@ -8,33 +8,33 @@
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/jackieboby/ADbyby
 !------------------------Specific element hiding rules------------------------!
-||feng.com##[class="fl_tb"]>[class="inner"]
-||ad.bjmama.net
-||v4p.co##iframe
-||y1118.com##div.ads
-||pi59.com##div#ShowAD1
-||pi59.com##div#ShowAD
-||lrshare.com##aside#text-8
-||lrshare.com##aside#text-9
-||lrshare.com##aside#text-10
-||yinyuetai.com##div[class^="focus_bottom_banner"]
-||iqiyi.com##div.play-title-right
-||msg.iqiyi.com^
-||msg.video.qiyi.com^
-||youku.com##div.yk-side-menu
-||youku.com##div#yknSideSub
-||youku.com##a.yk-side-manage
-||youku.com##div#sideTool
-||zdfans.com##em
-||su.bdimg.com/static/dspui/js/
-||hanzify.org##iframe[allowtransparency="true"]
-||hanzify.org##div.rss-new
-||lofter.com##div.menub
-||theync.com###divYNC-RC-TopAd
-||letv.com##div.cbg-Ads
-||yixun.com###j_fbanner
-||pi59.com##iframe
-||55887.com/47766.gif
+feng.com##[class="fl_tb"]>[class="inner"]
+ad.bjmama.net
+v4p.co##iframe
+y1118.com##div.ads
+pi59.com##div#ShowAD1
+pi59.com##div#ShowAD
+lrshare.com##aside#text-8
+lrshare.com##aside#text-9
+lrshare.com##aside#text-10
+yinyuetai.com##div[class^="focus_bottom_banner"]
+iqiyi.com##div.play-title-right
+msg.iqiyi.com^
+msg.video.qiyi.com^
+youku.com##div.yk-side-menu
+youku.com##div#yknSideSub
+youku.com##a.yk-side-manage
+youku.com##div#sideTool
+zdfans.com##em
+su.bdimg.com/static/dspui/js/
+hanzify.org##iframe[allowtransparency="true"]
+hanzify.org##div.rss-new
+lofter.com##div.menub
+theync.com###divYNC-RC-TopAd
+letv.com##div.cbg-Ads
+yixun.com###j_fbanner
+pi59.com##iframe
+55887.com/47766.gif
 !---------------------------------URL Whitelist-------------------------------!
 @@/adblockTester.js$domain=zdfans.com
 !----------------------------------The End------------------------------------!
