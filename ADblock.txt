@@ -1,4 +1,4 @@
-[ADbyby 2.5.0.1]
+[Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
 ! Version: 20150626
 ! Title: ADblock List
