@@ -1,13 +1,12 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 201506241924
-! Title: CJX's Annoyance List
+! Version: 20150626
+! Title: ADblock List
 ! Only for Chinese Language Websites.
 ! Last modified: 2015/06/24 19:24 +0800
-! Expires: 4 days (update frequency)
+! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
-! Email: 994722209@qq.com
-! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
+! Homepage: https://github.com/jackieboby/ADbyby
 !
 !-----------------------General advert blocking filters-----------------------!
 !------------------------General element hiding rules-------------------------!
