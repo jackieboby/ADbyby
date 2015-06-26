@@ -7,7 +7,7 @@
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/jackieboby/ADbyby
-!
+!----------------------Specific advert blocking filters-----------------------!
 ||feng.com##[class="fl_tb"]>[class="inner"]
 ||ad.bjmama.net
 ||v4p.co##iframe
