@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 201506271924
+! Version: 201506271958
 ! Title: Annoyance List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/06/27 00:07 +0800
+! Last modified: 2015/06/27 19:58 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -16,6 +16,7 @@
 feng.com##[class="fl_tb"]>[class="inner"]
 feng.com##[class="wrap"]
 feng.com/images_new/ad-
+bbs.feng.com/aodoo3
 feng.com##div.bbs_top_nesws
 fengbuy.com/recommend-new.php
 ad.bjmama.net
