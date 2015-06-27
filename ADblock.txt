@@ -18,6 +18,7 @@ feng.com##[class="wrap"]
 feng.com/images_new/ad-
 feng.com##div.bbs_top_nesws
 feng.com##[class="wrap wea_d_panel_980 a_t"]
+feng.com/aodoo3/images/*.jpg
 fengbuy.com/recommend-new.php
 ad.bjmama.net
 v4p.co##iframe
