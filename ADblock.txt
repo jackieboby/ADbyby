@@ -14,8 +14,7 @@
 ###windlocation
 !------------------------Specific element hiding rules------------------------!
 ||feng.com##[class="fl_tb"]>[class="inner"]
-||feng.com/aodoo3/
-||feng.com^*/index_treasure/
+||feng.com##div.wrap
 ||fengbuy.com/recommend-new.php
 ||ad.bjmama.net
 ||v4p.co##iframe
