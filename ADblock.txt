@@ -16,7 +16,6 @@
 feng.com##[class="fl_tb"]>[class="inner"]
 feng.com##[class="wrap"]
 feng.com/images_new/ad-
-bbs.feng.com/aodoo3
 feng.com##div.bbs_top_nesws
 feng.com##[class="wrap wea_d_panel_980 a_t"]
 fengbuy.com/recommend-new.php
