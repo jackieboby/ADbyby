@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 201506272000
+! Version: 201507030000
 ! Title: Annoyance List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/06/27 20:00 +0800
+! Last modified: 2015/07/03 00:00 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -47,4 +47,6 @@ yixun.com###j_fbanner
 pi59.com##iframe
 55887.com/47766.gif
 @@||zdfans.com/ad/adsense/adblockTester.js
+vip.com###J_top_ads
+a.vpimg4.com/upload/actpics/uidesign/2015/6m/0629corner/730prev.png
 !----------------------------------The End------------------------------------!
