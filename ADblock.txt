@@ -30,6 +30,9 @@ lrshare.com##aside#text-9
 lrshare.com##aside#text-10
 yinyuetai.com##div[class^="focus_bottom_banner"]
 iqiyi.com##div.play-title-right
+iqiyi.com###widget-musicfloter
+iqiyi.com###widget-client-river
+iqiyi.com##div.vip_rec_pop
 msg.iqiyi.com^
 msg.video.qiyi.com^
 youku.com##div.yk-side-menu
