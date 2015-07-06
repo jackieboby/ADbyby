@@ -38,9 +38,6 @@ youku.com##div.yk-side-menu
 youku.com##div#yknSideSub
 youku.com##a.yk-side-manage
 youku.com##div#sideTool
-youku.com##div.win_login
-youku.com##div.qwindow
-youku.com##div.qwindow_mask
 zdfans.com##em
 @@||zdfans.com/ad/adsense/adblockTester.js
 su.bdimg.com/static/dspui/js/
