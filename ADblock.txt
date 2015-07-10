@@ -57,5 +57,6 @@ vip.com###J-ad-detail-mid
 zhe800.com##div.top_banner_74288
 yhd.com###topCurtain
 weibo.com##div.player_bg
+qq.com##div.ad_1000_90
 @@||zdfans.com/ad/adsense/adblockTester.js
 !----------------------------------The End------------------------------------!
