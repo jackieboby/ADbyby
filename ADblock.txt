@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
 ! Version: 201507100900
-! Title: Annoyance List
+! Title: Mianhu List
 ! Only for Chinese Language Websites.
 ! Last modified: 2015/07/10 09:00 +0800
 ! Expires: 1 days (update frequency)
