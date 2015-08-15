@@ -21,7 +21,7 @@ feng.com##[class="wrap wea_d_panel_980 a_t"]
 feng.com/aodoo3/images/*.jpg
 fengbuy.com/recommend-new.php
 ad.bjmama.net
-v4p.co##iframe
+v6p.co##iframe
 y1118.com##div.ads
 lrshare.com##aside#text-8
 lrshare.com##aside#text-9
