@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 2015010252001
+! Version: 2015010262159
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/10/25 20:01 +0800
+! Last modified: 2015/10/26 21:59 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -20,7 +20,7 @@ feng.com##div.bbs_top_nesws
 feng.com##[class="wrap wea_d_panel_980 a_t"]
 feng.com/aodoo3/images/*.jpg
 fengbuy.com/recommend-new.php
-||yes1.feng.com/view.php?what=zone:41&n=a70876eb
+||yes1.feng.com/view.php?what=zone:41&n=af27ac35
 ad.bjmama.net
 v6p.co##iframe
 y1118.com##div.ads
