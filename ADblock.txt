@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 2015010262159
+! Version: 2015010291906
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/10/26 21:59 +0800
+! Last modified: 2015/10/29 19:06 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -74,4 +74,5 @@ zol.com.cn###J_YouLike
 100tk.com###gg.gg
 100tk.com##div.AD_SS
 pcbeta.com##span#weixinqr
+||bbs.pcbeta.com/static/image/microsoftstore/
 !----------------------------------The End------------------------------------!
