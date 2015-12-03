@@ -66,6 +66,7 @@ weibo.com##div.player_bg
 weibo.com###v6_pl_rightmod_rank
 weibo.com##a.W_icon.icon_setskin
 qq.com###column_2015_1k
+qq.com###coo_qqBrowser.coo_qqBrowser.clearfix
 @@||zdfans.com/ad/adsense/adblockTester.js
 kafan.cn##div.mtw.mbw
 zol.com.cn##div.side-news
