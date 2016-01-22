@@ -9,9 +9,6 @@
 ! Email: mianhu@foxmail.com
 ! Homepage:https://raw.githubusercontent.com/jackieboby/ADbyby/master/ADblock.txt
 !
-!-----------------------General advert blocking filters-----------------------!
-!------------------------General element hiding rules-------------------------!
-###windlocation
 !------------------------Specific element hiding rules------------------------!
 feng.com##[class="fl_tb"]>[class="inner"]
 feng.com##[class="wrap"]
