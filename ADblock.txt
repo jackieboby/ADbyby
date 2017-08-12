@@ -57,6 +57,9 @@ pi398.com##iframe
 ji198.com###bar
 ji298.com###bar
 ji398.com###bar
+ji198.com##iframe
+ji298.com##iframe
+ji398.com##iframe
 fc260.com##div#ShowAD1
 fc260.com##div#ShowAD
 fc260.com##iframe
