@@ -69,6 +69,8 @@ fc270.com##div#ShowAD
 fc270.com##iframe
 fc260.com##table#table7231
 fc270.com##table#table7231
+fc260.com##tbody
+fc270.com##tbody
 ||cbu01.alicdn.com/img/ibank/*/*/*/*_*.jpg
 55887.com/47766.gif
 vip.com###J_top_ads
