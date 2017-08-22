@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 201701191458
+! Version: 201708220915
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2016/01/06 16:06 +0800
+! Last modified: 2017/08/22 09:15 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -69,10 +69,10 @@ fc270.com##div#ShowAD
 fc270.com##iframe
 fc260.com##table#table7231
 fc270.com##table#table7231
-||ji198.com/vip*.gif
-||j2198.com/vip*.gif
-||j3198.com/vip*.gif
-||cbu01.alicdn.com/img/ibank/*/*/*/*_*.jpg
+ji198.com/vip*.gif
+j2198.com/vip*.gif
+j3198.com/vip*.gif
+cbu01.alicdn.com/img/ibank/*/*/*/*_*.jpg
 55887.com/47766.gif
 vip.com###J_top_ads
 vip.com##div.i-sbar-hot-show.trans200
