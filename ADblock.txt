@@ -99,4 +99,5 @@ weibo.com##div.WB_ad_tm2015.WB_ad_tm2015_v2
 zhe800.com##div.right_min_window.right_min_window
 ys168.com###dy_wz0
 iplaysoft.com##div.entry.entry-mixed
+@@mp.weixin.qq.com
 !----------------------------------The End------------------------------------!
