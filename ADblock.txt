@@ -100,4 +100,25 @@ zhe800.com##div.right_min_window.right_min_window
 ys168.com###dy_wz0
 iplaysoft.com##div.entry.entry-mixed
 @@mp.weixin.qq.com
+6677984.com##P
+6677984.com##table#table1848
+6677984.com##table#table41
+6677984.com##table#table1850
+6677984.com##table#table1664
+6677984.com##table#table354
+6677984.com##table#table351
+00555888.com##P
+00555888.com##table#table1848
+00555888.com##table#table41
+00555888.com##table#table1850
+00555888.com##table#table1664
+00555888.com##table#table354
+00555888.com##table#table351
+jii47.com##P
+jii47.com##table#table1848
+jii47.com##table#table41
+jii47.com##table#table1850
+jii47.com##table#table1664
+jii47.com##table#table354
+jii47.com##table#table351
 !----------------------------------The End------------------------------------!
