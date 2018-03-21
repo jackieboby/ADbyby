@@ -122,4 +122,5 @@ jii47.com##table#table1664
 jii47.com##table#table354
 jii47.com##table#table351
 btrenren.com##div#bottomAD
+btrenren.com##div.fx
 !----------------------------------The End------------------------------------!
