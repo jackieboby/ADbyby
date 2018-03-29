@@ -21,6 +21,9 @@ feng.com##div.header_treasure
 ad.bjmama.net
 v6p.co##iframe
 y1118.com##div.ads
+y1118.com##div.duilian.duilian_left
+y1118.com##div.duilian.duilian_right
+y1118.com##li
 lrshare.com##aside#text-8
 lrshare.com##aside#text-9
 lrshare.com##aside#text-10
@@ -123,4 +126,8 @@ jii47.com##table#table354
 jii47.com##table#table351
 btrenren.com##div#bottomAD
 btrenren.com##div.fx
+||014929.com/images/256net.gif
+||014929.com/images/1900.gif
+||014929.com/images/2709.gif
+||fans.91p20.space/fans/661249.gif
 !----------------------------------The End------------------------------------!
