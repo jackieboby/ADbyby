@@ -24,6 +24,10 @@ y1118.com##div.ads
 y1118.com##div.duilian.duilian_left
 y1118.com##div.duilian.duilian_right
 y1118.com##li
+lhc518.com##div.ads
+lhc518.com##div.duilian.duilian_left
+lhc518.com##div.duilian.duilian_right
+lhc518.com##li
 lrshare.com##aside#text-8
 lrshare.com##aside#text-9
 lrshare.com##aside#text-10
