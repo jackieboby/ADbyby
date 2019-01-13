@@ -138,10 +138,14 @@ y1118.com##div#d101
 y1118.com##div#d102
 y1118.com##div#d103
 y1118.com##div#d104
+y1118.com##div#d105
+y1118.com##div#d106
 y1118.com##div#tg1
 lhc518.com##div#d101
 lhc518.com##div#d102
 lhc518.com##div#d103
 lhc518.com##div#d104
+lhc518.com##div#d105
+lhc518.com##div#d106
 lhc518.com##div#tg1
 !----------------------------------The End------------------------------------!
