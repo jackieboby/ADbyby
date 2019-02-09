@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 20190116
+! Version: 20190209
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2019/01/16 22:27 +0800
+! Last modified: 2019/02/9 10：40 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -54,10 +54,13 @@ letv.com##div.cbg-Ads
 yixun.com###j_fbanner
 pi198.com##div#ShowAD1
 pi198.com##div#ShowAD
+pi198.com###iframe
 pi298.com##div#ShowAD1
-pi198.com##div#ShowAD
+pi298.com###iframe
+pi298.com##div#ShowAD
 pi398.com##div#ShowAD1
 pi398.com##div#ShowAD
+pi398.com###iframe
 ji198.com###bar
 ji298.com###bar
 ji398.com###bar
