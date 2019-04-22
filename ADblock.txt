@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 20190319
+! Version: 20190422
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2019/03/19 22:03 +0800
+! Last modified: 2019/04/22 16:13 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -52,30 +52,6 @@ lofter.com##div.menub
 theync.com###divYNC-RC-TopAd
 letv.com##div.cbg-Ads
 yixun.com###j_fbanner
-pi198.com##div#ShowAD1
-pi198.com##div#ShowAD
-pi198.com##iframe
-pi498.com##div#ShowAD1
-pi498.com##div#ShowAD
-pi498.com##iframe
-pi398.com##div#ShowAD1
-pi398.com##div#ShowAD
-pi398.com##iframe
-ji198.com###bar
-ji298.com###bar
-ji398.com###bar
-fc290.com##div#ShowAD1
-fc290.com##div#ShowAD
-fc290.com##iframe
-ji198/jili/jjgg/index2010.htm
-fc270.com##div#ShowAD1
-fc270.com##div#ShowAD
-fc270.com##iframe
-fc290.com##table#table7231
-fc270.com##table#table7231
-ji198.com/vip*.gif
-j2198.com/vip*.gif
-j3198.com/vip*.gif
 cbu01.alicdn.com/img/ibank/*/*/*/*_*.jpg
 55887.com/47766.gif
 vip.com###J_top_ads
@@ -104,27 +80,13 @@ zhe800.com##div.right_min_window.right_min_window
 ys168.com###dy_wz0
 iplaysoft.com##div.entry.entry-mixed
 @@mp.weixin.qq.com
-6677984.com##P
-6677984.com##table#table1848
-6677984.com##table#table41
-6677984.com##table#table1850
-6677984.com##table#table1664
-6677984.com##table#table354
-6677984.com##table#table351
-00555888.com##P
-00555888.com##table#table1848
-00555888.com##table#table41
-00555888.com##table#table1850
-00555888.com##table#table1664
-00555888.com##table#table354
-00555888.com##table#table351
-jii47.com##P
-jii47.com##table#table1848
-jii47.com##table#table41
-jii47.com##table#table1850
-jii47.com##table#table1664
-jii47.com##table#table354
-jii47.com##table#table351
+351777.com##P
+351777.com##table#table1848
+351777.com##table#table41
+351777.com##table#table1850
+351777.com##table#table1664
+351777.com##table#table354
+351777.com##table#table351
 btrenren.com##div#bottomAD
 btrenren.com##div.fx
 ||014929.com/images/256net.gif
@@ -134,9 +96,15 @@ btrenren.com##div.fx
 kj1376.com##div.kj138-wzdq.w988.tj
 kj1376.com##div.kj138-adaq.w988
 kj1376.com##div.kj138-jxct.w988
+kj1376.com##div.kj138-wzdq.w988
+kj1376.com##div#HOMEADCT06.clearfix
+kj1376.com##div#HOMEADCT08.clearfix
 kj1486.com##div.kj138-wzdq.w988.tj
 kj1486.com##div.kj138-adaq.w988
 kj1486.com##div.kj138-jxct.w988
+kj1486.com##div.kj138-wzdq.w988
+kj1486.com##div#HOMEADCT06.clearfix
+kj1486.com##div#HOMEADCT08.clearfix
 y1118.com##div#d101
 y1118.com##div#d102
 y1118.com##div#d103
