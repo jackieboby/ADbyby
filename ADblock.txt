@@ -97,12 +97,14 @@ kj1376.com##div.kj138-wzdq.w988.tj
 kj1376.com##div.kj138-adaq.w988
 kj1376.com##div.kj138-jxct.w988
 kj1376.com##div.kj138-wzdq.w988
+kj1376.com##div#HOMEADCT05.clearfix
 kj1376.com##div#HOMEADCT06.clearfix
 kj1376.com##div#HOMEADCT08.clearfix
 kj1486.com##div.kj138-wzdq.w988.tj
 kj1486.com##div.kj138-adaq.w988
 kj1486.com##div.kj138-jxct.w988
 kj1486.com##div.kj138-wzdq.w988
+kj1486.com##div#HOMEADCT05.clearfix
 kj1486.com##div#HOMEADCT06.clearfix
 kj1486.com##div#HOMEADCT08.clearfix
 y1118.com##div#d101
