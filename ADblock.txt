@@ -134,4 +134,7 @@ lhc518.com##div#d111
 lhc518.com##div#d112
 kj55.com##table#table8885433
 news.163.com##p.f_center
+199165.com##div.advseatBox
+199165.com##a[style="display:inline-block;width:1200px;height:80px;"]
+199165.com##a[style="display:inline-block;width:1200px;height:60px;"]
 !----------------------------------The End------------------------------------!
