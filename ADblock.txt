@@ -80,13 +80,6 @@ zhe800.com##div.right_min_window.right_min_window
 ys168.com###dy_wz0
 iplaysoft.com##div.entry.entry-mixed
 @@mp.weixin.qq.com
-351777.com##P
-351777.com##table#table1848
-351777.com##table#table41
-351777.com##table#table1850
-351777.com##table#table1664
-351777.com##table#table354
-351777.com##table#table351
 btrenren.com##div#bottomAD
 btrenren.com##div.fx
 ||014929.com/images/256net.gif
