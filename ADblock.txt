@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 20191201
+! Version: 20200803
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2020/08/03 16:55 +0800
+! Last modified: 2020/08/03 17:00 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -128,9 +128,9 @@ lhc518.com##div#d110
 lhc518.com##div#d111
 lhc518.com##div#d112
 kj55.com##table#table8885433
-163.com##p.f_center
-163.com##div.mt35.mod_pageh5.cm_area_show
-163.com##div.mod_idx_focus
+news.163.com##p.f_center
+news.163.com##div.mt35.mod_pageh5.cm_area_show
+news.163.com##div.mod_idx_focus
 199165.com##div.advseatBox
 199165.com##a[style="display:inline-block;width:1200px;height:80px;"]
 199165.com##a[style="display:inline-block;width:1200px;height:60px;"]
