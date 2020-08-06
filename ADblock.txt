@@ -128,7 +128,6 @@ lhc518.com##div#d110
 lhc518.com##div#d111
 lhc518.com##div#d112
 kj55.com##table#table8885433
-news.163.com##p.f_center
 news.163.com##div.mt35.mod_pageh5.cm_area_show
 news.163.com##div.mod_idx_focus
 199165.com##div.advseatBox
