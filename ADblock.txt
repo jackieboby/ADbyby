@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 20200803
+! Version: 20200909
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2020/08/03 17:00 +0800
+! Last modified: 2020/09/09 17:15 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -86,22 +86,22 @@ btrenren.com##div.fx
 ||014929.com/images/1900.gif
 ||014929.com/images/2709.gif
 ||fans.91p20.space/fans/661249.gif
-kj1376.com##div.kj138-wzdq.w988.tj
-kj1376.com##div.kj138-adaq.w988
-kj1376.com##div.kj138-jxct.w988
-kj1376.com##div.kj138-wzdq.w988
-kj1376.com##div#HOMEADCT05.clearfix
-kj1376.com##div#HOMEADCT06.clearfix
-kj1376.com##div#HOMEADCT08.clearfix
-kj1376.com##div#HOMEADCT08-2
-kj1486.com##div.kj138-wzdq.w988.tj
-kj1486.com##div.kj138-adaq.w988
-kj1486.com##div.kj138-jxct.w988
-kj1486.com##div.kj138-wzdq.w988
-kj1486.com##div#HOMEADCT05.clearfix
-kj1486.com##div#HOMEADCT06.clearfix
-kj1486.com##div#HOMEADCT08.clearfix
-kj1486.com##div#HOMEADCT08-2
+kj137.com##div.kj138-wzdq.w988.tj
+kj137.com##div.kj138-adaq.w988
+kj137.com##div.kj138-jxct.w988
+kj137.com##div.kj138-wzdq.w988
+kj137.com##div#HOMEADCT05.clearfix
+kj137.com##div#HOMEADCT06.clearfix
+kj137.com##div#HOMEADCT08.clearfix
+kj137.com##div#HOMEADCT08-2
+p9343.com##div.kj138-wzdq.w988.tj
+p9343.com##div.kj138-adaq.w988
+p9343.com##div.kj138-jxct.w988
+p9343.com##div.kj138-wzdq.w988
+p9343.com##div#HOMEADCT05.clearfix
+p9343.com##div#HOMEADCT06.clearfix
+p9343.com##div#HOMEADCT08.clearfix
+p9343.com##div#HOMEADCT08-2
 y1118.com##div#d101
 y1118.com##div#d102
 y1118.com##div#d103
