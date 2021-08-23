@@ -114,8 +114,13 @@ lhc518.com##li
 news.163.com##div.mt35.mod_pageh5.cm_area_show
 news.163.com##div.mod_idx_focus
 40139a.com##div.box.ad-pic
-
-
+139912.com##div.box.ad-pic
+937933.com##div.kj138-wzdq.w988
+937933.com##div.phvad.d05
+937933.com##div.kj138-jxct.w988
+kj1487.com##div.kj138-wzdq.w988
+kj1487.com##div.phvad.d05
+kj1487.com##div.kj138-jxct.w988
 
 
 !----------------------------------The End------------------------------------!
