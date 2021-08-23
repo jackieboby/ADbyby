@@ -3,7 +3,7 @@
 ! Version: 20210823
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2021/08/23 16:55 +0800
+! Last modified: 2021/08/23 17:00 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -113,7 +113,7 @@ lhc518.com##div.duilian.duilian_right
 lhc518.com##li
 news.163.com##div.mt35.mod_pageh5.cm_area_show
 news.163.com##div.mod_idx_focus
-40139a.com##div.box.ad-pic
+40139a.com:86##div.box.ad-pic
 
 
 
