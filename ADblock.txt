@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 20200909
+! Version: 20210823
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2020/09/09 17:15 +0800
+! Last modified: 2021/08/23 16:55 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -20,14 +20,6 @@ fengbuy.com/recommend-new.php
 feng.com##div.header_treasure
 ad.bjmama.net
 v6p.co##iframe
-y1118.com##div.ads
-y1118.com##div.duilian.duilian_left
-y1118.com##div.duilian.duilian_right
-y1118.com##li
-lhc518.com##div.ads
-lhc518.com##div.duilian.duilian_left
-lhc518.com##div.duilian.duilian_right
-lhc518.com##li
 lrshare.com##aside#text-8
 lrshare.com##aside#text-9
 lrshare.com##aside#text-10
@@ -86,22 +78,6 @@ btrenren.com##div.fx
 ||014929.com/images/1900.gif
 ||014929.com/images/2709.gif
 ||fans.91p20.space/fans/661249.gif
-kj137.com##div.kj138-wzdq.w988.tj
-kj137.com##div.kj138-adaq.w988
-kj137.com##div.kj138-jxct.w988
-kj137.com##div.kj138-wzdq.w988
-kj137.com##div#HOMEADCT05.clearfix
-kj137.com##div#HOMEADCT06.clearfix
-kj137.com##div#HOMEADCT08.clearfix
-kj137.com##div#HOMEADCT08-2
-p9343.com##div.kj138-wzdq.w988.tj
-p9343.com##div.kj138-adaq.w988
-p9343.com##div.kj138-jxct.w988
-p9343.com##div.kj138-wzdq.w988
-p9343.com##div#HOMEADCT05.clearfix
-p9343.com##div#HOMEADCT06.clearfix
-p9343.com##div#HOMEADCT08.clearfix
-p9343.com##div#HOMEADCT08-2
 y1118.com##div#d101
 y1118.com##div#d102
 y1118.com##div#d103
@@ -127,10 +103,19 @@ lhc518.com##div#d109
 lhc518.com##div#d110
 lhc518.com##div#d111
 lhc518.com##div#d112
-kj55.com##table#table8885433
+y1118.com##div.ads
+y1118.com##div.duilian.duilian_left
+y1118.com##div.duilian.duilian_right
+y1118.com##li
+lhc518.com##div.ads
+lhc518.com##div.duilian.duilian_left
+lhc518.com##div.duilian.duilian_right
+lhc518.com##li
 news.163.com##div.mt35.mod_pageh5.cm_area_show
 news.163.com##div.mod_idx_focus
-199165.com##div.advseatBox
-199165.com##a[style="display:inline-block;width:1200px;height:80px;"]
-199165.com##a[style="display:inline-block;width:1200px;height:60px;"]
+##div.box.ad-pic
+
+
+
+
 !----------------------------------The End------------------------------------!
