@@ -113,7 +113,7 @@ lhc518.com##div.duilian.duilian_right
 lhc518.com##li
 news.163.com##div.mt35.mod_pageh5.cm_area_show
 news.163.com##div.mod_idx_focus
-40139a.com:86##div.box.ad-pic
+40139a.com##div.box.ad-pic
 
 
 
