@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 20210823
+! Version: 20210928
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2021/08/23 17:15 +0800
+! Last modified: 2021/09/28 16:15 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -116,6 +116,7 @@ news.163.com##div.mt35.mod_pageh5.cm_area_show
 news.163.com##div.mod_idx_focus
 40139a.com##div.box.ad-pic
 139912.com##div.box.ad-pic
+934321.com##div.box.ad-pic
 937933.com##div.kj138-wzdq.w988
 937933.com##div.phvad.d05
 937933.com##div.kj138-jxct.w988
