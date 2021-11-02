@@ -3,7 +3,7 @@
 ! Version: 20211102
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2021/11/02 17:30 +0800
+! Last modified: 2021/11/02 20:46 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -76,10 +76,6 @@ iplaysoft.com##div.entry.entry-mixed
 @@mp.weixin.qq.com
 btrenren.com##div#bottomAD
 btrenren.com##div.fx
-||014929.com/images/256net.gif
-||014929.com/images/1900.gif
-||014929.com/images/2709.gif
-||fans.91p20.space/fans/661249.gif
 y1118.com##div#d101
 y1118.com##div#d102
 y1118.com##div#d103
@@ -143,6 +139,14 @@ kj1487.com##div.kj138-jxct.w988
 185454.com##table#table400917910
 353502.com##table#table400917969
 185454.com##table#table400917969
+58695.com##img.dog2.center-block
+58695.com##div.white-box
+58695.com##[src="https://img11.360buyimg.com/ddimg/jfs/t1/199339/36/8644/216573/6142efadE43d87d19/fe355e85103865e7.gif"]
+58695.com##[src="http://921717b.com/50x160.gif"]
+58695.com##[src="http://921717b.com/50x80.gif"]
+58695.com##[src="http://921717b.com/gb.gif"]
+58695.com##[src="http://444948.com/9999ggimg/618/O1CN01GcYJjc28G5A7n95CR_!!2208066357904-0-cib.gif"]
+
 
 
 *://*.001553.cn/*
