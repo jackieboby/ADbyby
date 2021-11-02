@@ -3,7 +3,7 @@
 ! Version: 20211102
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2021/11/02 17:22 +0800
+! Last modified: 2021/11/02 17:30 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -130,6 +130,16 @@ kj1487.com##div.kj138-jxct.w988
 42443b.com##div.box.ad-pic
 424443.com##div.box.ad-pic
 353502.com##table#table400917943
+185454.com##table#table400917943
+353502.com##table#table400917934
+185454.com##table#table400917934
+353502.com##table#table400917913
+185454.com##table#table400917913
+353502.com##table#table400917926
+185454.com##table#table400917926
+353502.com##table#table400917936
+185454.com##table#table400917936
+
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
