@@ -3,7 +3,7 @@
 ! Version: 20220329
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2022/03/29 16:20 +0800
+! Last modified: 2022/03/29 16:25 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -24,11 +24,13 @@ lrshare.com##aside#text-8
 lrshare.com##aside#text-9
 lrshare.com##aside#text-10
 yinyuetai.com##div[class^="focus_bottom_banner"]
+
 iqiyi.com##div.play-title-right
 iqiyi.com###widget-musicfloter
 iqiyi.com###widget-client-river
 iqiyi.com##div.vip_rec_pop
 iqiyi.com###widget-appdown-random1
+
 youku.com##div.yk-side-menu
 youku.com##div#yknSideSub
 youku.com##a.yk-side-manage
@@ -36,7 +38,7 @@ youku.com##div#sideTool
 youku.com/v*/index/js/popup.js
 youku.com/v*/index/js/qwindow.js
 youku.com/v*/paycenter/js/cps.js
-zdfans.com##em
+
 su.bdimg.com/static/dspui/js/
 hanzify.org##iframe[allowtransparency="true"]
 hanzify.org##div.rss-new
@@ -58,7 +60,7 @@ qq.com###column_2015_1k
 qq.com###coo_qqBrowser.coo_qqBrowser.clearfix
 qq.com##div.fixed-bar
 qq.com##div.scr-login.ft12.fl
-@@||zdfans.com/ad/adsense/adblockTester.js
+
 kafan.cn##div.mtw.mbw
 zol.com.cn##div.side-news
 zol.com.cn##div.quick-mark
