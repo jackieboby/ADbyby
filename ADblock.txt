@@ -3,7 +3,7 @@
 ! Version: 20220329
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2022/03/29 16:18 +0800
+! Last modified: 2022/03/29 16:20 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -76,6 +76,7 @@ iplaysoft.com##div.entry.entry-mixed
 @@mp.weixin.qq.com
 btrenren.com##div#bottomAD
 btrenren.com##div.fx
+
 y1118.com##div#d101
 y1118.com##div#d102
 y1118.com##div#d103
@@ -89,6 +90,7 @@ y1118.com##div#d110
 y1118.com##div#d111
 y1118.com##div#d112
 y1118.com##div#tg1
+
 lhc518.com##div#d101
 lhc518.com##div#d102
 lhc518.com##div#d103
@@ -101,31 +103,38 @@ lhc518.com##div#d109
 lhc518.com##div#d110
 lhc518.com##div#d111
 lhc518.com##div#d112
+
 y1118.com##div.ads
 y1118.com##div.duilian.duilian_left
 y1118.com##div.duilian.duilian_right
 y1118.com##li
+
 lhc518.com##div.ads
 lhc518.com##div.duilian.duilian_left
 lhc518.com##div.duilian.duilian_right
 lhc518.com##li
+
 news.163.com##div.mt35.mod_pageh5.cm_area_show
 news.163.com##div.mod_idx_focus
+
 40139a.com##div.box.ad-pic
 139912.com##div.box.ad-pic
 934321.com##div.box.ad-pic
+
 937933.com##div.box.ad-pic
 937933.com##div.kj138-wzdq.w988
 937933.com##div.phvad.d05
 937933.com##div.kj138-jxct.w988
-934321.com##ul.clearfix
 934321.com##div.table.zzsc.pad4
 934321.com##div.table.zzsm.pad4
 934321.com##div.table.jxct.pad4
+
 kj1487.com##div.kj138-wzdq.w988
 kj1487.com##div.phvad.d05
 kj1487.com##div.kj138-jxct.w988
+
 163.com##div.ns_sidebar.none
+
 49443.com##table#table400905759
 49443.com##table#table400905779
 49443.com##table#table400904300
