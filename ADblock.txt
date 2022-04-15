@@ -3,7 +3,7 @@
 ! Version: 20220415
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2022/04/15 09:55 +0800
+! Last modified: 2022/04/15 10:00 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -92,6 +92,10 @@ y1118.com##div#d110
 y1118.com##div#d111
 y1118.com##div#d112
 y1118.com##div#tg1
+y1118.com##div.ads
+y1118.com##div.duilian.duilian_left
+y1118.com##div.duilian.duilian_right
+y1118.com##li
 
 k7968.com##div#d101
 k7968.com##div#d102
@@ -106,8 +110,9 @@ k7968.com##div#d110
 k7968.com##div#d111
 k7968.com##div#d112
 k7968.com##div.tg1
+k7968.com##div.tg2
 k7968.com##div.duilian.duilian_left
-k7968.com##div.duilian duilian_right
+k7968.com##div.duilian.duilian_right
 
 lhc518.com##div#d101
 lhc518.com##div#d102
@@ -122,10 +127,6 @@ lhc518.com##div#d110
 lhc518.com##div#d111
 lhc518.com##div#d112
 
-y1118.com##div.ads
-y1118.com##div.duilian.duilian_left
-y1118.com##div.duilian.duilian_right
-y1118.com##li
 
 lhc518.com##div.ads
 lhc518.com##div.duilian.duilian_left
