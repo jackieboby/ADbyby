@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 20220415
+! Version: 20220504
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2022/04/15 10:00 +0800
+! Last modified: 2022/05/04 17:43 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -200,5 +200,10 @@ kj1487.com##div.kj138-jxct.w988
 58695.com##[src="http://921717b.com/50x80.gif"]
 58695.com##[src="http://921717b.com/gb.gif"]
 58695.com##[src="http://444948.com/9999ggimg/618/O1CN01GcYJjc28G5A7n95CR_!!2208066357904-0-cib.gif"]
+
+static.zhihu.com/heifetz/column.signflow.*.js
+heifetz/column.signflow.026a8cb887924fcb227e.js
+heifetz/column.signflow.*.js
+
 
 !----------------------------------The End------------------------------------!
