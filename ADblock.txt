@@ -3,7 +3,7 @@
 ! Version: 20220504
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
-! Last modified: 2022/05/04 17:43 +0800
+! Last modified: 2022/07/03 21:00 +0800
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: mianhu@foxmail.com
@@ -113,6 +113,24 @@ k7968.com##div.tg1
 k7968.com##div.tg2
 k7968.com##div.duilian.duilian_left
 k7968.com##div.duilian.duilian_right
+
+y1118.top##div#d101
+y1118.top##div#d102
+y1118.top##div#d103
+y1118.top##div#d104
+y1118.top##div#d105
+y1118.top##div#d106
+y1118.top##div#d107
+y1118.top##div#d108
+y1118.top##div#d109
+y1118.top##div#d110
+y1118.top##div#d111
+y1118.top##div#d112
+y1118.top##div#tg1
+y1118.top##div.ads
+y1118.top##div.duilian.duilian_left
+y1118.top##div.duilian.duilian_right
+y1118.top##li
 
 lhc518.com##div#d101
 lhc518.com##div#d102
