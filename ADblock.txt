@@ -219,12 +219,10 @@ kj1487.com##div.kj138-jxct.w988
 58695.com##[src="http://921717b.com/gb.gif"]
 58695.com##[src="http://444948.com/9999ggimg/618/O1CN01GcYJjc28G5A7n95CR_!!2208066357904-0-cib.gif"]
 
-static.zhihu.com/heifetz/chunks/7626.b9f229663df7d6d2c8cc.js
-static.zhihu.com/heifetz/column.signflow.*.js
-static.zhihu.com/heifetz/chunks/3551.516896f9d8ed6c7d3bbe.js
-zhihu-web-analytics.zhihu.com/api/v3inv2/za/logs/batch
-heifetz/column.signflow.*.js
-heifetz/column.signflow.026a8cb887924fcb227e.js
-
+! 知乎去登录提示
+www.zhihu.com##.css-1ynzxqw
+||static.zhihu.com/heifetz/chunks/3551.$script
+zhuanlan.zhihu.com##.css-1izy64v
+||static.zhihu.com/heifetz/chunks/7626.$script
 
 !----------------------------------The End------------------------------------!
