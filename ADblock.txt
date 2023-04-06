@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 20220504
+! Version: 19990909
 ! Title: Mianhu List
 ! Only for Chinese Language Websites.
 ! Last modified: 2022/07/03 21:00 +0800
@@ -131,6 +131,25 @@ y1118.top##div.ads
 y1118.top##div.duilian.duilian_left
 y1118.top##div.duilian.duilian_right
 y1118.top##li
+
+y1118.win##div#d101
+y1118.win##div#d102
+y1118.win##div#d103
+y1118.win##div#d104
+y1118.win##div#d105
+y1118.win##div#d106
+y1118.win##div#d107
+y1118.win##div#d108
+y1118.win##div#d109
+y1118.win##div#d110
+y1118.win##div#d111
+y1118.win##div#d112
+y1118.win##div#tg1
+y1118.win##div.ads
+y1118.win##div.duilian.duilian_left
+y1118.win##div.duilian.duilian_right
+y1118.win##li
+
 
 lhc518.com##div#d101
 lhc518.com##div#d102
